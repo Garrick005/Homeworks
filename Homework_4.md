@@ -2,6 +2,9 @@
 
 ## Задание 1.
 
+https://hub.docker.com/repository/docker/garrick005/custom-nginx/general
+При загрузке образа в публичный репозиторий появляется ошибка:
+denied: requested access to the resource is denied
 
 ## Задание 2.
 
