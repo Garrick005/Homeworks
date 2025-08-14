@@ -15,8 +15,16 @@ denied: requested access to the resource is denied
 
 ## Задание 3.
 
-1.2.3. Комбинация клавиш Ctrl-C после команды docker attach отправляет сигнал SIGINT (interrupt) процессу, запущенному в контейнере, что приводит к завершению процесса и остановке всего контейнера.
+1. https://github.com/Garrick005/Homeworks/blob/main/task3-1.PNG
+2. https://github.com/Garrick005/Homeworks/blob/main/task3-2.PNG
+3. Комбинация клавиш Ctrl-C после команды docker attach отправляет сигнал SIGINT (interrupt) процессу, запущенному в контейнере, что приводит к завершению процесса и остановке всего контейнера.
+4. https://github.com/Garrick005/Homeworks/blob/main/task3-4.PNG
+5. https://github.com/Garrick005/Homeworks/blob/main/task3-5.PNG
+6. https://github.com/Garrick005/Homeworks/blob/main/task3-6.PNG
+7. https://github.com/Garrick005/Homeworks/blob/main/task3-7.PNG
+8. https://github.com/Garrick005/Homeworks/blob/main/task3-8.PNG
+10. https://github.com/Garrick005/Homeworks/blob/main/task3-10.PNG
 
-10. Проблема в том, что для работы nginx хостовая машина по умолчанию пробрасывает порт 80 для взаимодействия с контейнером. Если поменять в настройках конфигурации внутри контейнера порт на 81, тогда nginx будет сбрасывать соединение по порту 80.
+Проблема в том, что для работы nginx хостовая машина по умолчанию пробрасывает порт 80 для взаимодействия с контейнером. Если поменять в настройках конфигурации внутри контейнера порт на 81, тогда nginx будет сбрасывать соединение по порту 80.
 
-12. Удалить работающий контейнер можно командой docker rm с ключом --force
+12. https://github.com/Garrick005/Homeworks/blob/main/task3-11.PNG
