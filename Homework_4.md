@@ -39,3 +39,9 @@ denied: requested access to the resource is denied
 6. https://github.com/Garrick005/Homeworks/blob/Garrick005-patch-1/task4-4-1-1.PNG
 7. https://github.com/Garrick005/Homeworks/blob/Garrick005-patch-1/task4-5.PNG
 
+## Задание 5.
+1. https://github.com/Garrick005/Homeworks/blob/Garrick005-patch-1/task5-1.PNG
+2. https://github.com/Garrick005/Homeworks/blob/Garrick005-patch-1/task5-2-1.PNG
+3. https://github.com/Garrick005/Homeworks/blob/Garrick005-patch-1/task5-2-2.PNG
+4. https://github.com/Garrick005/Homeworks/blob/Garrick005-patch-1/task5-3.PNG
+5. https://github.com/Garrick005/Homeworks/blob/Garrick005-patch-1/task5-4.PNG
