@@ -12,6 +12,8 @@ https://github.com/Garrick005/shvirtd-example-python
 ## Задание 4.
 <img width="456" height="425" alt="task4" src="https://github.com/user-attachments/assets/626ca4b0-cd16-4f82-a1ec-84fdd63d4acb" />
 <img width="654" height="253" alt="task4-5" src="https://github.com/user-attachments/assets/86aa6dd1-8189-47ec-9676-9560fb1e0e2a" />
+
+
 https://github.com/Garrick005/shvirtd-example-python
 
 ## Задание 6.
