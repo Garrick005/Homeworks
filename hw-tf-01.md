@@ -19,3 +19,8 @@
 
 7.
 <img width="483" height="373" alt="task1-7" src="https://github.com/user-attachments/assets/cfaf9a57-7b32-4fee-8ad6-d159199c501a" />
+
+8. Параметр "keep_locally = true" не позволяет удалять Docker‑образ из локального хранилища при выполнении команды terraform destroy.
+
+<img width="229" height="72" alt="task1-8-1" src="https://github.com/user-attachments/assets/66fc4810-8b62-4409-8b27-49aa30912257" />
+<img width="420" height="70" alt="task1-8-2" src="https://github.com/user-attachments/assets/9430f3c8-0416-4c03-bae9-a65cd6286712" />
