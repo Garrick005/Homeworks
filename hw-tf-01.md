@@ -9,5 +9,11 @@
 4. В блоке ресурса Terraform обязательно нужно указать тип ресурса и имя ресурса (2 лейбла). Имя ресурса не может начинаться с цифры. random_string_FAKE - ошибка в лейбле ресурса. resulT - опечатка в аргументе. В имени контейнера будет отображаться созданный пароль. (это небезопасно, но на правильность кода это не влияет).
 
 
-5.<img width="422" height="343" alt="task1" src="https://github.com/user-attachments/assets/db5f0235-9cbf-4c53-a6cd-be38a6c621f5" />
+5.
+<img width="422" height="343" alt="task1" src="https://github.com/user-attachments/assets/db5f0235-9cbf-4c53-a6cd-be38a6c621f5" />
 <img width="710" height="54" alt="task1-1" src="https://github.com/user-attachments/assets/614ed544-c3b4-4a94-8d30-92b1b6d3b667" />
+
+6. Команда terraform apply -auto-approve выполняет автоматическое применение изменений, без запроса подтверждения от пользователя. Её применение может привести к удалению важных ресурсов, если в коде были допущены неточности. Данныя команда может применяться при автоматизации CI/CD когда Terraform запускается из скриптов, пайплайнов, GitHub Actions и пр., в тестовых средах и при отладке кода.
+
+<img width="709" height="52" alt="task1-6" src="https://github.com/user-attachments/assets/a5e75792-9397-470f-8a11-a8e01578327e" />
+
