@@ -25,3 +25,8 @@
 <img width="229" height="72" alt="task1-8-1" src="https://github.com/user-attachments/assets/66fc4810-8b62-4409-8b27-49aa30912257" />
 
 <img width="420" height="70" alt="task1-8-2" src="https://github.com/user-attachments/assets/9430f3c8-0416-4c03-bae9-a65cd6286712" />
+
+
+### Задание 2*
+
+https://github.com/Garrick005/ter-homeworks/blob/main/01/src/main.tf
