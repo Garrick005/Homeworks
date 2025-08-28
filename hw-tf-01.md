@@ -17,3 +17,5 @@
 
 <img width="709" height="52" alt="task1-6" src="https://github.com/user-attachments/assets/a5e75792-9397-470f-8a11-a8e01578327e" />
 
+7.
+<img width="483" height="373" alt="task1-7" src="https://github.com/user-attachments/assets/cfaf9a57-7b32-4fee-8ad6-d159199c501a" />
