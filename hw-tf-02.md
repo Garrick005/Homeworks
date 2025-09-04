@@ -15,3 +15,6 @@
 3. local.test_map["admin"] или local.test_map.admin
 4. "${local.test_map.admin} is ${keys(local.test_map)[0]} for ${local.test_list[2]} server based on OS ${local.servers.production.image} with ${local.servers.production.cpu} v${keys(local.servers.develop)[0]}, ${local.servers.production.ram} ${keys(local.servers.stage)[3]} and ${length(local.servers.production.disks)} virtual ${keys(local.servers.stage)[1]}"
 <img width="762" height="152" alt="task7" src="https://github.com/user-attachments/assets/d0775f75-462d-479e-8afe-1b3f4c8e2e89" />
+
+### Задание 8
+<img width="403" height="291" alt="task8" src="https://github.com/user-attachments/assets/4ea76e79-0bac-439d-a39b-edd1ffbb5b19" />
