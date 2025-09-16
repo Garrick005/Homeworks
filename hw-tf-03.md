@@ -4,6 +4,7 @@
 <img width="576" height="334" alt="task1" src="https://github.com/user-attachments/assets/ed781283-a7e8-40ea-b99f-aae827658e12" />
 
 ### Задание 2,3,4
+https://github.com/Garrick005/terraform-03/tree/main
 
 ### Задание 4
 <img width="520" height="239" alt="task4" src="https://github.com/user-attachments/assets/d1966827-75f0-46a7-b233-228841be09a7" />
