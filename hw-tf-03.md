@@ -5,6 +5,11 @@
 
 
 
+
+
+### Задание 7
+{  network_id = local.vpc.network_id,  subnet_ids = concat(slice(local.vpc.subnet_ids, 0, 2), slice(local.vpc.subnet_ids, 3, length(local.vpc.subnet_ids))),  subnet_zones = concat(slice(local.vpc.subnet_zones, 0, 2), slice(local.vpc.subnet_zones, 3, length(local.vpc.subnet_zones)))}
+
 ### Задание 8
 В строке внутри цикла не хватает закрывающей фигурной скобки } для выражения ${i["network_interface"][0]["nat_ip_address"], плюс есть лишний пробел в ключе "platform_id "
 
