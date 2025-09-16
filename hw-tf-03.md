@@ -2,3 +2,8 @@
 
 ### Задание 1
 <img width="576" height="334" alt="task1" src="https://github.com/user-attachments/assets/ed781283-a7e8-40ea-b99f-aae827658e12" />
+
+
+
+### Задание 8
+В строке внутри цикла не хватает закрывающей фигурной скобки } для выражения ${i["network_interface"][0]["nat_ip_address"], плюс есть лишний пробел в ключе "platform_id "
